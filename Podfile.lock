@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.0.1)
+  - Hue (2.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Hue
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  Hue: 2b317616a04cc5d7cccdb024c88e6d143e2b9cf1
+
+PODFILE CHECKSUM: 1f1ae5535b671dc3af35bdad2fc2ad9330f80e07
+
+COCOAPODS: 1.1.1
